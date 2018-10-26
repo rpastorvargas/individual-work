@@ -1,2 +1,4 @@
-# individual-work
-Modulo 2: Exercise 1
+# Assigments
+* Cloud comuting basics
+* Develop Java applications  and running them on a cloud provider
+* IoT Fundamentals
